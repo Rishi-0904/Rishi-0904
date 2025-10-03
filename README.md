@@ -13,18 +13,18 @@
 ### 🎯 Current Focus
 
 - Building real-world, full-stack projects to solve practical problems.
-- [cite_start]Sharpening my skills in Data Structures and Algorithms (DSA)[cite: 18].
-- [cite_start]Actively participating in Competitive Programming (CP) contests[cite: 18].
+- Sharpening my skills in Data Structures and Algorithms (DSA)[cite: 18].
+- Actively participating in Competitive Programming (CP) contests[cite: 18].
 - Contributing to open-source projects.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- [cite_start]**Languages:** C++, C, Java, JavaScript, Python, TypeScript [cite: 15]
-- [cite_start]**Frontend:** React, Tailwind CSS [cite: 15]
+- **Languages:** C++, C, Java, JavaScript, Python, TypeScript [cite: 15]
+- **Frontend:** React, Tailwind CSS [cite: 15]
 - **Backend:** Node.js
-- [cite_start]**Databases:** MongoDB, SQL [cite: 16]
+- **Databases:** MongoDB, SQL [cite: 16]
 - **Tools:** Git, GitHub, Postman, VS Code
 
 ---
