@@ -4,7 +4,7 @@
 
 [cite_start]I'm a passionate Computer Science and Engineering student currently pursuing my B.Tech at Motilal Nehru National Institute of Technology, Allahabad[cite: 1]. I enjoy building efficient and user-friendly web applications, exploring new technologies, and solving real-world problems through code.
 
-- [cite_start]📧 **Contact me:** [rishijaiswal126@gmail.com](mailto:rishijaiswal126@gmail.com) [cite: 1]
+- [cite_start]📧 **Contact me:** [rishijaiswal126@gmail.com](mailto:rishijaiswal126@gmail.com) 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/rishi-raj-jaiswal-47627a318/]
 - 💻 **GitHub:** [https://github.com/Rishi-0904]
 
@@ -13,18 +13,18 @@
 ### 🎯 Current Focus
 
 - Building real-world, full-stack projects to solve practical problems.
-- Sharpening my skills in Data Structures and Algorithms (DSA)[cite: 18].
-- Actively participating in Competitive Programming (CP) contests[cite: 18].
+- Sharpening my skills in Data Structures and Algorithms (DSA).
+- Actively participating in Competitive Programming (CP) contests.
 - Contributing to open-source projects.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** C++, C, Java, JavaScript, Python, TypeScript [cite: 15]
-- **Frontend:** React, Tailwind CSS [cite: 15]
+- **Languages:** C++, C, Java, JavaScript, Python, TypeScript 
+- **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js
-- **Databases:** MongoDB, SQL [cite: 16]
+- **Databases:** MongoDB, SQL
 - **Tools:** Git, GitHub, Postman, VS Code
 
 ---
@@ -56,6 +56,7 @@ LeetCode: Solved over 400+ questions and actively participated in multiple conte
 
 
 Softathalon: Finalist in Softathalon at Avishkar, MNNIT's flagship technical fest.
+Codeforces:PUPIL on codeforces.
 ---
 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
