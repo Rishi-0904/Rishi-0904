@@ -4,7 +4,7 @@
 
 [cite_start]I'm a passionate Computer Science and Engineering student currently pursuing my B.Tech at Motilal Nehru National Institute of Technology, Allahabad[cite: 1]. I enjoy building efficient and user-friendly web applications, exploring new technologies, and solving real-world problems through code.
 
-- [cite_start]📧 **Contact me:** [rishijaiswal126@gmail.com](mailto:rishijaiswal126@gmail.com) 
+- 📧 **Contact me:** [rishijaiswal126@gmail.com](mailto:rishijaiswal126@gmail.com) 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/rishi-raj-jaiswal-47627a318/]
 - 💻 **GitHub:** [https://github.com/Rishi-0904]
 
