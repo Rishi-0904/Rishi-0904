@@ -2,7 +2,7 @@
 
 ### Aspiring Web Developer | Computer Science Student | Problem Solver
 
-[cite_start]I'm a passionate Computer Science and Engineering student currently pursuing my B.Tech at Motilal Nehru National Institute of Technology, Allahabad[cite: 1]. I enjoy building efficient and user-friendly web applications, exploring new technologies, and solving real-world problems through code.
+I'm a passionate Computer Science and Engineering student currently pursuing my B.Tech at Motilal Nehru National Institute of Technology, Allahabad. I enjoy building efficient and user-friendly web applications, exploring new technologies, and solving real-world problems through code.
 
 - 📧 **Contact me:** [rishijaiswal126@gmail.com](mailto:rishijaiswal126@gmail.com) 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/rishi-raj-jaiswal-47627a318/]
@@ -46,8 +46,8 @@ Tech Stack: React, TypeScript, and Tailwind CSS.
 
 3. The Ringmaster's Roundtable
 
-4. Description:A full stack project which calculates the overall Trip budget,itineraries,weather and Routes to promote a perfect Trip.
-5. Tech Stack:React+Vite,Express,Tailwind CSS and Firebase for Database.
+Description:A full stack project which calculates the overall Trip budget,itineraries,weather and Routes to promote a perfect Trip.
+Tech Stack:React+Vite,Express,Tailwind CSS and Firebase for Database.
 ---
 🏆 Achievements & Recognition
 
